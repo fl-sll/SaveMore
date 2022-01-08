@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.btn{
+    text-decoration: none;
+    color: black;
+    margin: auto;
+    width: 30%;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 25px;
+}
+.vis{
+    text-align:left;
+}
+img{
+    background:transparent;
+}
